@@ -1,4 +1,4 @@
-  ## Si Von Faeldonia Ngaaaaaaaaaaaaaaaaaaaaaaaa👋 😶‍🌫😶‍🌫
+  ## Si Von Faeldonia
 
 <!--
 **tzuyu10/tzuyu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
