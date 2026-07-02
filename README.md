@@ -46,7 +46,7 @@ Other / Tools
 
 | Project | What it does |
 |---|---|
-| **[Bantay](#)** | Web-based flood mapping system with real-time flood propagation simulation with Mapbox + React |
-| **[BirthCertify](#)** | Full-stack birth certificate request system, built with React + Supabase |
-| **[Iskonnect](#)** | Desktop file-sharing app built with Java and JavaFX, drag-and-drop UX via Scene Builder |
-| **[PUP Enrollment System](#)** | PUP enrollment platform built with Laravel Blade & PHP |
+| **[Bantay](https://github.com/PMT-BANTAY/bantay-demo)** | Web-based flood mapping system with real-time flood propagation simulation with Mapbox + React |
+| **[BirthCertify](https://github.com/tzuyu10/BirthCertify-G9)** | Full-stack birth certificate request system, built with React + Supabase |
+| **[Iskonnect](https://github.com/JpCurada/iskonnect)** | Desktop file-sharing app built with Java and JavaFX, drag-and-drop UX via Scene Builder |
+| **[PUP Enrollment System](https://github.com/tzuyu10/G8-School-Enrollment-System)** | PUP enrollment platform built with Laravel Blade & PHP |
