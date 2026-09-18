@@ -1,5 +1,5 @@
-<h1>Hi, I'm Von Faeldonia </h1>
-<h3>Front-End Developer ✺ CS Student ✺ Quezon City, PH</h3>
+<h1>Von Faeldonia </h1>
+<h3>Front-End Developer | CS Student | Quezon City, PH</h3>
 
 ```txt
 > const von = {
