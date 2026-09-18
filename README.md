@@ -8,5 +8,6 @@
     coreStack: ["React.js", "Next.js", "Laravel", "Python"],
     rangeIncludes: ["Database Management", "Data Analysis"],
     currentlyExploring: ["AI Automation", "System Design"],
+    funFact: "Certified 3D Printer",
   }
 ```
